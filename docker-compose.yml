@@ -1,0 +1,35 @@
+version: '3.4'
+ 
+networks:
+    backend:
+
+volumes:
+    sqlserver-data:
+        driver: local 
+ 
+services:
+    db:
+        #container_name: dbContainer
+        image: mcr.microsoft.com/mssql/server:2019-CU21-ubuntu-20.04
+        ports:
+            - 8002:1433
+        networks:
+            - backend
+        volumes:
+              - sqlserver-data:/var/opt/mssql
+            # - C:/sqlserver-data:/var/opt/mssql 
+        environment:
+            - ACCEPT_EULA=Y
+            - MSSQL_SA_PASSWORD=<YourStrong@Passw0rd>
+    api:
+        #container_name: apiContainer
+        #image: apidb-dockerdemo:1.2
+        ports:
+            - 8001:80 
+        networks:
+            - backend
+        build:
+          context: .
+          dockerfile: ./api/Dockerfile
+        depends_on:
+            - db

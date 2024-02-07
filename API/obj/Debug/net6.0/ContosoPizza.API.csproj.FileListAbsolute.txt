@@ -1,0 +1,111 @@
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.csproj.AssemblyReference.cache
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.AssemblyInfoInputs.cache
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.AssemblyInfo.cs
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.csproj.CoreCompileInputs.cache
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.MvcApplicationPartsAssemblyInfo.cs
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.MvcApplicationPartsAssemblyInfo.cache
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\appsettings.Development.json
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\appsettings.json
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.API.exe
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.API.deps.json
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.API.runtimeconfig.json
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.API.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.API.pdb
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.Data.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.Models.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.Models.pdb
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.Data.pdb
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\obj\Debug\net6.0\staticwebassets.build.json
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\obj\Debug\net6.0\staticwebassets.development.json
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\obj\Debug\net6.0\scopedcss\bundle\ContosoPizza.API.styles.css
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.csproj.CopyComplete
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\obj\Debug\net6.0\refint\ContosoPizza.API.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.pdb
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.genruntimeconfig.cache
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\obj\Debug\net6.0\ref\ContosoPizza.API.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\bin\Debug\net6.0\appsettings.json
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.API.exe
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.API.deps.json
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.API.runtimeconfig.json
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.API.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.API.pdb
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.Data.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.Models.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.Services.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.Models.pdb
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.Services.pdb
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.Data.pdb
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.csproj.AssemblyReference.cache
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.AssemblyInfoInputs.cache
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.AssemblyInfo.cs
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.csproj.CoreCompileInputs.cache
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\obj\Debug\net6.0\scopedcss\bundle\ContosoPizza.API.styles.css
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.csproj.CopyComplete
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\obj\Debug\net6.0\refint\ContosoPizza.API.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.pdb
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.genruntimeconfig.cache
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\CursosMicrosoft\ContosoPizza\API\obj\Debug\net6.0\ref\ContosoPizza.API.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.Business.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.Business.pdb
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\appsettings.json
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.API.exe
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.API.deps.json
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.API.runtimeconfig.json
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.API.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.API.pdb
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.Business.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.Data.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.Models.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.Models.pdb
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.Business.pdb
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\ContosoPizza.Data.pdb
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.csproj.AssemblyReference.cache
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.AssemblyInfoInputs.cache
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.AssemblyInfo.cs
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.csproj.CoreCompileInputs.cache
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\obj\Debug\net6.0\scopedcss\bundle\ContosoPizza.API.styles.css
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.csproj.CopyComplete
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\obj\Debug\net6.0\refint\ContosoPizza.API.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.pdb
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\obj\Debug\net6.0\ContosoPizza.API.genruntimeconfig.cache
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\obj\Debug\net6.0\ref\ContosoPizza.API.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

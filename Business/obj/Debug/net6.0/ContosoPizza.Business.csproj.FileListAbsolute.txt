@@ -1,0 +1,34 @@
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\Business\obj\Debug\net6.0\ContosoPizza.Business.csproj.AssemblyReference.cache
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\Business\obj\Debug\net6.0\ContosoPizza.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\Business\obj\Debug\net6.0\ContosoPizza.Business.AssemblyInfoInputs.cache
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\Business\obj\Debug\net6.0\ContosoPizza.Business.AssemblyInfo.cs
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\Business\obj\Debug\net6.0\ContosoPizza.Business.csproj.CoreCompileInputs.cache
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\Business\bin\Debug\net6.0\ContosoPizza.Business.deps.json
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\Business\bin\Debug\net6.0\ContosoPizza.Business.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\Business\bin\Debug\net6.0\ContosoPizza.Business.pdb
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\Business\bin\Debug\net6.0\ContosoPizza.Data.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\Business\bin\Debug\net6.0\ContosoPizza.Models.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\Business\bin\Debug\net6.0\ContosoPizza.Data.pdb
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\Business\bin\Debug\net6.0\ContosoPizza.Models.pdb
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\Business\obj\Debug\net6.0\ContosoPizza.Business.csproj.CopyComplete
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\Business\obj\Debug\net6.0\ContosoPizza.Business.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\Business\obj\Debug\net6.0\refint\ContosoPizza.Business.dll
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\Business\obj\Debug\net6.0\ContosoPizza.Business.pdb
+D:\2ºDAW\Desarrollo Web en Entorno Servidor\ContosoPizza\Business\obj\Debug\net6.0\ref\ContosoPizza.Business.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\Business\bin\Debug\net6.0\ContosoPizza.Business.deps.json
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\Business\bin\Debug\net6.0\ContosoPizza.Business.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\Business\bin\Debug\net6.0\ContosoPizza.Business.pdb
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\Business\bin\Debug\net6.0\ContosoPizza.Data.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\Business\bin\Debug\net6.0\ContosoPizza.Models.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\Business\bin\Debug\net6.0\ContosoPizza.Data.pdb
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\Business\bin\Debug\net6.0\ContosoPizza.Models.pdb
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\Business\obj\Debug\net6.0\ContosoPizza.Business.csproj.AssemblyReference.cache
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\Business\obj\Debug\net6.0\ContosoPizza.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\Business\obj\Debug\net6.0\ContosoPizza.Business.AssemblyInfoInputs.cache
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\Business\obj\Debug\net6.0\ContosoPizza.Business.AssemblyInfo.cs
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\Business\obj\Debug\net6.0\ContosoPizza.Business.csproj.CoreCompileInputs.cache
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\Business\obj\Debug\net6.0\ContosoPizza.Business.csproj.CopyComplete
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\Business\obj\Debug\net6.0\ContosoPizza.Business.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\Business\obj\Debug\net6.0\refint\ContosoPizza.Business.dll
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\Business\obj\Debug\net6.0\ContosoPizza.Business.pdb
+C:\Users\guill.LAPTOP-8JJE69SF.001\Desktop\SanValero\DesarrolloWebServidor\ClaseAlex\2ºTrimestreProyectos\ContosoPizza\Business\obj\Debug\net6.0\ref\ContosoPizza.Business.dll
